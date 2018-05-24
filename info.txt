@@ -1,0 +1,520 @@
+##########
+Source: git.ir/page
+2017.04.07 - 08:31:37 (AM)
+##########
+
+آشنایی با Microsoft Dynamics 365
+http://i.git.ir/Lynda_Microsoft_Dynamics_365_First_Look.jpg
+
+افزایش سود در کسب و کار با تعیین هدف
+http://i.git.ir/Pluralsight_How_to_Add_Profit_to_Your_Business_by_Adding_Purpose.jpg
+
+وبلاگ نویسی سریع و صرفه جویی در زمان
+http://i.git.ir/Udemy_Blogging_Made_Quick_And_Easy_Save_Massive_Amounts_Of_Time_Now.jpg
+
+آشنایی با ماشین تورینگ
+http://i.git.ir/Pluralsight_Alan_Turings_Wonderful_Machine.jpg
+
+اولویت بندی وظایف و مدیریت زمان برای بهره وری بیشتر
+http://i.git.ir/Pluralsight_Prioritizing_Tasks_and_Managing_Time_for_Greater_Productivity.jpg
+
+بارگذاری ماژول ها بر اساس سطح دسترسی کاربر در Prism
+http://i.git.ir/Pluralsight_Prism_Problems_And_Solutions_Loading_Modules_Based_on_User_Roles.jpg
+
+آشنایی با نکته های Lightroom CC
+http://i.git.ir/Kelbyone_Lightroom_CC_Killer_Tips.jpg
+
+کار با اسلایدشو و ماژول های وب در Lightroom CC
+http://i.git.ir/Kelbyone_Lightroom_CC_In_Depth_Slideshow_and_Web_Modules.jpg
+
+آموزش طراحی لوگوی سه بعدی در فتوشاپ
+http://i.git.ir/Kelbyone_Master_FX_3D_Logo_Design_in_Adobe_Photoshop.jpg
+
+آموزش کسب درآمد از وبلاگ وردپرس
+http://i.git.ir/Udemy_How_To_Earn_Money_Blogging_From_Your_WordPress_Blog.jpg
+
+تبدیل منطقه زمانی (Time Zone) در PHP
+http://i.git.ir/Lynda_Easy_PHP_Projects_Time_Zone_Conversion.jpg
+
+مبانی DNS – آموزش راه اندازی و مدیریت دامنه
+http://i.git.ir/Udemy_DNS_basics_-_Understand_setup_and_manage_your_own_domains.jpg
+
+ساخت Satyr در فتوشاپ با استفاده از استایل های لایه
+http://i.git.ir/Lynda_Photoshop_Create_a_Satyr_Using_Layer_Styles.jpg
+
+تکنیک های ترمیم در فتوشاپ: جایگزینی پس زمینه
+http://i.git.ir/Lynda_Photoshop_Restoration_Techniques_Replacing_a_Background.jpg
+
+آموزش SQL Server در دنیای واقعی از ابتدا
+http://i.git.ir/Udemy_Real_World_SQL_Server_From_The_Ground_Up.jpg
+
+آموزش تبلیغات Twitter برای کسب و کارها و کارآفرینان
+http://i.git.ir/Udemy_Twitter_Ads_NEW_2016_-_For_Business_Agencies_And_Entrepreneurs.jpg
+
+آموزش Revit 2017 برای MEP
+http://i.git.ir/Lynda_Revit_2017_Essential_Training_for_MEP_(Imperial).jpg
+
+نصب وردپرس با BitNami
+http://i.git.ir/Lynda_Installing_and_Running_WordPress_BitNami.jpg
+
+استراتژی ساخت بازی های Real-Time با Unity 5
+http://i.git.ir/Lynda_Unity_5_Build_a_Real-Time_Strategy_Game.jpg
+
+آموزش رتوش عکس در Photoshop CC در کمترین زمان
+http://i.git.ir/Udemy_Photoshop_CC_Retouching_in_no_time_with_Actions.jpg
+
+کسب درآمد با مهارت های وردپرسی
+http://i.git.ir/Udemy_WordPress_Profits_Simplified.jpg
+
+آموزش سئو یوتیوب: چگونه ویدئو خود را صفحه اول قرار دهیم؟
+http://i.git.ir/Udemy_Youtube_SEO__Learn_How_I_Rank_My_YouTube_Videos_on_1st_Page.jpg
+
+استراتژی های یوتیوب برای ایجاد یک کانال موفق
+http://i.git.ir/Udemy_YouTube_Strategy_Building_A_Successful_YouTube_Channel.jpg
+
+آموزش برنامه نویسی جاوااسکریپت همراه با ساخت 4 پروژه عملی
+http://i.git.ir/Udemy_JavaScript_Basics_Build_4_JavaScript_Basic_Projects.jpg
+
+آموزش نکات ضروری در Google Webmaster Tools
+http://i.git.ir/Udemy_Google_Webmaster_Tools__All_you_need_to_know.jpg
+
+آموزش کار با دستبند سلامتی Fitbit
+http://i.git.ir/Lynda_Up_and_Running_with_Fitbit.jpg
+
+آموزش طراحی UX با Flinto برای Mac
+http://i.git.ir/Lynda_UX_Design_Tools_Flinto_for_Mac.jpg
+
+آموزش Revit 2017 برای معماران
+http://i.git.ir/Lynda_Revit_2017_Essential_Training_for_Architecture_(Metric).jpg
+
+آموزش اساسی Excel سطح پیشرفته
+http://i.git.ir/Udemy_Excel_Essentials_Level_2_-_Intermediate_Advanced.jpg
+
+آموزش اساسی Excel سطح مقدماتی
+http://i.git.ir/Udemy_Excel_Essentials_Level_1_Basics_-_Master_Excel_Step-By-Step.jpg
+
+آموزش برنامه نویسی Swift برای تازه کاران
+http://i.git.ir/Udemy_Swift_Programming_for_Beginners.jpg
+
+ساخت موشن گرافیک Realtime با Unreal Engine 4
+http://i.git.ir/Lynda_Realtime_Motion_Graphics_with_Unreal_Engine_4.jpg
+
+آموزش اشتراک گذاری عکس با استفاده از Flickr
+http://i.git.ir/Lynda_Sharing_Photos_with_Flickr.jpg
+
+آموزش تدریس آنلاین زبان انگلیسی و چگونگی جذب دانشجو
+http://i.git.ir/Udemy_Teach_English_Online_what_to_teach_and_how_to_find_students.jpg
+
+آموزش تسلط به فتوشاپ برای تازه کاران
+http://i.git.ir/Udemy_Photoshop_Beginners_Mastery_Zero_to_Hero_in_Photoshop.jpg
+
+ترسیم رسانه های طبیعی در فتوشاپ
+http://i.git.ir/Lynda_Natural-Media_Painting_in_Photoshop.jpg
+
+آموزش بهینه سازی بازاریابی ایمیلی
+http://i.git.ir/Lynda_Optimizing_Marketing_Emails.jpg
+
+چگونه در یک ماه 18000 دنبال کننده توئیتر جذب کنیم؟
+http://i.git.ir/Udemy_Twitter_Marketing_How_I_Got_18000_Followers_in_One_Month.jpg
+
+آموزش وردپرس برای کسب و کار و کسب درآمد
+http://i.git.ir/Udemy_WordPress_For_Business_Build_5000_Looking_WordPress_Site.jpg
+
+آموزش Blending Mode در فتوشاپ
+http://i.git.ir/Tutsplus_Mastering_Blending_Modes_in_Adobe_Photoshop.jpg
+
+
+
+
+
+
+##########
+Source: git.ir/page
+2017.04.07 - 08:32:08 (AM)
+##########
+
+آشنایی با Microsoft Dynamics 365
+http://i.git.ir/Lynda_Microsoft_Dynamics_365_First_Look.jpg
+
+افزایش سود در کسب و کار با تعیین هدف
+http://i.git.ir/Pluralsight_How_to_Add_Profit_to_Your_Business_by_Adding_Purpose.jpg
+
+وبلاگ نویسی سریع و صرفه جویی در زمان
+http://i.git.ir/Udemy_Blogging_Made_Quick_And_Easy_Save_Massive_Amounts_Of_Time_Now.jpg
+
+آشنایی با ماشین تورینگ
+http://i.git.ir/Pluralsight_Alan_Turings_Wonderful_Machine.jpg
+
+اولویت بندی وظایف و مدیریت زمان برای بهره وری بیشتر
+http://i.git.ir/Pluralsight_Prioritizing_Tasks_and_Managing_Time_for_Greater_Productivity.jpg
+
+بارگذاری ماژول ها بر اساس سطح دسترسی کاربر در Prism
+http://i.git.ir/Pluralsight_Prism_Problems_And_Solutions_Loading_Modules_Based_on_User_Roles.jpg
+
+آشنایی با نکته های Lightroom CC
+http://i.git.ir/Kelbyone_Lightroom_CC_Killer_Tips.jpg
+
+کار با اسلایدشو و ماژول های وب در Lightroom CC
+http://i.git.ir/Kelbyone_Lightroom_CC_In_Depth_Slideshow_and_Web_Modules.jpg
+
+آموزش طراحی لوگوی سه بعدی در فتوشاپ
+http://i.git.ir/Kelbyone_Master_FX_3D_Logo_Design_in_Adobe_Photoshop.jpg
+
+آموزش کسب درآمد از وبلاگ وردپرس
+http://i.git.ir/Udemy_How_To_Earn_Money_Blogging_From_Your_WordPress_Blog.jpg
+
+تبدیل منطقه زمانی (Time Zone) در PHP
+http://i.git.ir/Lynda_Easy_PHP_Projects_Time_Zone_Conversion.jpg
+
+مبانی DNS – آموزش راه اندازی و مدیریت دامنه
+http://i.git.ir/Udemy_DNS_basics_-_Understand_setup_and_manage_your_own_domains.jpg
+
+ساخت Satyr در فتوشاپ با استفاده از استایل های لایه
+http://i.git.ir/Lynda_Photoshop_Create_a_Satyr_Using_Layer_Styles.jpg
+
+تکنیک های ترمیم در فتوشاپ: جایگزینی پس زمینه
+http://i.git.ir/Lynda_Photoshop_Restoration_Techniques_Replacing_a_Background.jpg
+
+آموزش SQL Server در دنیای واقعی از ابتدا
+http://i.git.ir/Udemy_Real_World_SQL_Server_From_The_Ground_Up.jpg
+
+آموزش تبلیغات Twitter برای کسب و کارها و کارآفرینان
+http://i.git.ir/Udemy_Twitter_Ads_NEW_2016_-_For_Business_Agencies_And_Entrepreneurs.jpg
+
+آموزش Revit 2017 برای MEP
+http://i.git.ir/Lynda_Revit_2017_Essential_Training_for_MEP_(Imperial).jpg
+
+نصب وردپرس با BitNami
+http://i.git.ir/Lynda_Installing_and_Running_WordPress_BitNami.jpg
+
+استراتژی ساخت بازی های Real-Time با Unity 5
+http://i.git.ir/Lynda_Unity_5_Build_a_Real-Time_Strategy_Game.jpg
+
+آموزش رتوش عکس در Photoshop CC در کمترین زمان
+http://i.git.ir/Udemy_Photoshop_CC_Retouching_in_no_time_with_Actions.jpg
+
+کسب درآمد با مهارت های وردپرسی
+http://i.git.ir/Udemy_WordPress_Profits_Simplified.jpg
+
+آموزش سئو یوتیوب: چگونه ویدئو خود را صفحه اول قرار دهیم؟
+http://i.git.ir/Udemy_Youtube_SEO__Learn_How_I_Rank_My_YouTube_Videos_on_1st_Page.jpg
+
+استراتژی های یوتیوب برای ایجاد یک کانال موفق
+http://i.git.ir/Udemy_YouTube_Strategy_Building_A_Successful_YouTube_Channel.jpg
+
+آموزش برنامه نویسی جاوااسکریپت همراه با ساخت 4 پروژه عملی
+http://i.git.ir/Udemy_JavaScript_Basics_Build_4_JavaScript_Basic_Projects.jpg
+
+آموزش نکات ضروری در Google Webmaster Tools
+http://i.git.ir/Udemy_Google_Webmaster_Tools__All_you_need_to_know.jpg
+
+آموزش کار با دستبند سلامتی Fitbit
+http://i.git.ir/Lynda_Up_and_Running_with_Fitbit.jpg
+
+آموزش طراحی UX با Flinto برای Mac
+http://i.git.ir/Lynda_UX_Design_Tools_Flinto_for_Mac.jpg
+
+آموزش Revit 2017 برای معماران
+http://i.git.ir/Lynda_Revit_2017_Essential_Training_for_Architecture_(Metric).jpg
+
+آموزش اساسی Excel سطح پیشرفته
+http://i.git.ir/Udemy_Excel_Essentials_Level_2_-_Intermediate_Advanced.jpg
+
+آموزش اساسی Excel سطح مقدماتی
+http://i.git.ir/Udemy_Excel_Essentials_Level_1_Basics_-_Master_Excel_Step-By-Step.jpg
+
+آموزش برنامه نویسی Swift برای تازه کاران
+http://i.git.ir/Udemy_Swift_Programming_for_Beginners.jpg
+
+ساخت موشن گرافیک Realtime با Unreal Engine 4
+http://i.git.ir/Lynda_Realtime_Motion_Graphics_with_Unreal_Engine_4.jpg
+
+آموزش اشتراک گذاری عکس با استفاده از Flickr
+http://i.git.ir/Lynda_Sharing_Photos_with_Flickr.jpg
+
+آموزش تدریس آنلاین زبان انگلیسی و چگونگی جذب دانشجو
+http://i.git.ir/Udemy_Teach_English_Online_what_to_teach_and_how_to_find_students.jpg
+
+آموزش تسلط به فتوشاپ برای تازه کاران
+http://i.git.ir/Udemy_Photoshop_Beginners_Mastery_Zero_to_Hero_in_Photoshop.jpg
+
+ترسیم رسانه های طبیعی در فتوشاپ
+http://i.git.ir/Lynda_Natural-Media_Painting_in_Photoshop.jpg
+
+آموزش بهینه سازی بازاریابی ایمیلی
+http://i.git.ir/Lynda_Optimizing_Marketing_Emails.jpg
+
+چگونه در یک ماه 18000 دنبال کننده توئیتر جذب کنیم؟
+http://i.git.ir/Udemy_Twitter_Marketing_How_I_Got_18000_Followers_in_One_Month.jpg
+
+آموزش وردپرس برای کسب و کار و کسب درآمد
+http://i.git.ir/Udemy_WordPress_For_Business_Build_5000_Looking_WordPress_Site.jpg
+
+آموزش Blending Mode در فتوشاپ
+http://i.git.ir/Tutsplus_Mastering_Blending_Modes_in_Adobe_Photoshop.jpg
+
+
+
+
+
+
+##########
+Source: git.ir/page
+2017.04.07 - 08:33:32 (AM)
+##########
+
+آشنایی با Microsoft Dynamics 365
+http://i.git.ir/Lynda_Microsoft_Dynamics_365_First_Look.jpg
+
+افزایش سود در کسب و کار با تعیین هدف
+http://i.git.ir/Pluralsight_How_to_Add_Profit_to_Your_Business_by_Adding_Purpose.jpg
+
+وبلاگ نویسی سریع و صرفه جویی در زمان
+http://i.git.ir/Udemy_Blogging_Made_Quick_And_Easy_Save_Massive_Amounts_Of_Time_Now.jpg
+
+آشنایی با ماشین تورینگ
+http://i.git.ir/Pluralsight_Alan_Turings_Wonderful_Machine.jpg
+
+اولویت بندی وظایف و مدیریت زمان برای بهره وری بیشتر
+http://i.git.ir/Pluralsight_Prioritizing_Tasks_and_Managing_Time_for_Greater_Productivity.jpg
+
+بارگذاری ماژول ها بر اساس سطح دسترسی کاربر در Prism
+http://i.git.ir/Pluralsight_Prism_Problems_And_Solutions_Loading_Modules_Based_on_User_Roles.jpg
+
+آشنایی با نکته های Lightroom CC
+http://i.git.ir/Kelbyone_Lightroom_CC_Killer_Tips.jpg
+
+کار با اسلایدشو و ماژول های وب در Lightroom CC
+http://i.git.ir/Kelbyone_Lightroom_CC_In_Depth_Slideshow_and_Web_Modules.jpg
+
+آموزش طراحی لوگوی سه بعدی در فتوشاپ
+http://i.git.ir/Kelbyone_Master_FX_3D_Logo_Design_in_Adobe_Photoshop.jpg
+
+آموزش کسب درآمد از وبلاگ وردپرس
+http://i.git.ir/Udemy_How_To_Earn_Money_Blogging_From_Your_WordPress_Blog.jpg
+
+تبدیل منطقه زمانی (Time Zone) در PHP
+http://i.git.ir/Lynda_Easy_PHP_Projects_Time_Zone_Conversion.jpg
+
+مبانی DNS – آموزش راه اندازی و مدیریت دامنه
+http://i.git.ir/Udemy_DNS_basics_-_Understand_setup_and_manage_your_own_domains.jpg
+
+ساخت Satyr در فتوشاپ با استفاده از استایل های لایه
+http://i.git.ir/Lynda_Photoshop_Create_a_Satyr_Using_Layer_Styles.jpg
+
+تکنیک های ترمیم در فتوشاپ: جایگزینی پس زمینه
+http://i.git.ir/Lynda_Photoshop_Restoration_Techniques_Replacing_a_Background.jpg
+
+آموزش SQL Server در دنیای واقعی از ابتدا
+http://i.git.ir/Udemy_Real_World_SQL_Server_From_The_Ground_Up.jpg
+
+آموزش تبلیغات Twitter برای کسب و کارها و کارآفرینان
+http://i.git.ir/Udemy_Twitter_Ads_NEW_2016_-_For_Business_Agencies_And_Entrepreneurs.jpg
+
+آموزش Revit 2017 برای MEP
+http://i.git.ir/Lynda_Revit_2017_Essential_Training_for_MEP_(Imperial).jpg
+
+نصب وردپرس با BitNami
+http://i.git.ir/Lynda_Installing_and_Running_WordPress_BitNami.jpg
+
+استراتژی ساخت بازی های Real-Time با Unity 5
+http://i.git.ir/Lynda_Unity_5_Build_a_Real-Time_Strategy_Game.jpg
+
+آموزش رتوش عکس در Photoshop CC در کمترین زمان
+http://i.git.ir/Udemy_Photoshop_CC_Retouching_in_no_time_with_Actions.jpg
+
+کسب درآمد با مهارت های وردپرسی
+http://i.git.ir/Udemy_WordPress_Profits_Simplified.jpg
+
+آموزش سئو یوتیوب: چگونه ویدئو خود را صفحه اول قرار دهیم؟
+http://i.git.ir/Udemy_Youtube_SEO__Learn_How_I_Rank_My_YouTube_Videos_on_1st_Page.jpg
+
+استراتژی های یوتیوب برای ایجاد یک کانال موفق
+http://i.git.ir/Udemy_YouTube_Strategy_Building_A_Successful_YouTube_Channel.jpg
+
+آموزش برنامه نویسی جاوااسکریپت همراه با ساخت 4 پروژه عملی
+http://i.git.ir/Udemy_JavaScript_Basics_Build_4_JavaScript_Basic_Projects.jpg
+
+آموزش نکات ضروری در Google Webmaster Tools
+http://i.git.ir/Udemy_Google_Webmaster_Tools__All_you_need_to_know.jpg
+
+آموزش کار با دستبند سلامتی Fitbit
+http://i.git.ir/Lynda_Up_and_Running_with_Fitbit.jpg
+
+آموزش طراحی UX با Flinto برای Mac
+http://i.git.ir/Lynda_UX_Design_Tools_Flinto_for_Mac.jpg
+
+آموزش Revit 2017 برای معماران
+http://i.git.ir/Lynda_Revit_2017_Essential_Training_for_Architecture_(Metric).jpg
+
+آموزش اساسی Excel سطح پیشرفته
+http://i.git.ir/Udemy_Excel_Essentials_Level_2_-_Intermediate_Advanced.jpg
+
+آموزش اساسی Excel سطح مقدماتی
+http://i.git.ir/Udemy_Excel_Essentials_Level_1_Basics_-_Master_Excel_Step-By-Step.jpg
+
+آموزش برنامه نویسی Swift برای تازه کاران
+http://i.git.ir/Udemy_Swift_Programming_for_Beginners.jpg
+
+ساخت موشن گرافیک Realtime با Unreal Engine 4
+http://i.git.ir/Lynda_Realtime_Motion_Graphics_with_Unreal_Engine_4.jpg
+
+آموزش اشتراک گذاری عکس با استفاده از Flickr
+http://i.git.ir/Lynda_Sharing_Photos_with_Flickr.jpg
+
+آموزش تدریس آنلاین زبان انگلیسی و چگونگی جذب دانشجو
+http://i.git.ir/Udemy_Teach_English_Online_what_to_teach_and_how_to_find_students.jpg
+
+آموزش تسلط به فتوشاپ برای تازه کاران
+http://i.git.ir/Udemy_Photoshop_Beginners_Mastery_Zero_to_Hero_in_Photoshop.jpg
+
+ترسیم رسانه های طبیعی در فتوشاپ
+http://i.git.ir/Lynda_Natural-Media_Painting_in_Photoshop.jpg
+
+آموزش بهینه سازی بازاریابی ایمیلی
+http://i.git.ir/Lynda_Optimizing_Marketing_Emails.jpg
+
+چگونه در یک ماه 18000 دنبال کننده توئیتر جذب کنیم؟
+http://i.git.ir/Udemy_Twitter_Marketing_How_I_Got_18000_Followers_in_One_Month.jpg
+
+آموزش وردپرس برای کسب و کار و کسب درآمد
+http://i.git.ir/Udemy_WordPress_For_Business_Build_5000_Looking_WordPress_Site.jpg
+
+آموزش Blending Mode در فتوشاپ
+http://i.git.ir/Tutsplus_Mastering_Blending_Modes_in_Adobe_Photoshop.jpg
+
+
+
+
+
+
+##########
+Source: git.ir/page/
+2017.04.09 - 10:04:09 (AM)
+##########
+
+آشنایی با Microsoft Dynamics 365
+http://i.git.ir/Lynda_Microsoft_Dynamics_365_First_Look.jpg
+
+افزایش سود در کسب و کار با تعیین هدف
+http://i.git.ir/Pluralsight_How_to_Add_Profit_to_Your_Business_by_Adding_Purpose.jpg
+
+وبلاگ نویسی سریع و صرفه جویی در زمان
+http://i.git.ir/Udemy_Blogging_Made_Quick_And_Easy_Save_Massive_Amounts_Of_Time_Now.jpg
+
+آشنایی با ماشین تورینگ
+http://i.git.ir/Pluralsight_Alan_Turings_Wonderful_Machine.jpg
+
+اولویت بندی وظایف و مدیریت زمان برای بهره وری بیشتر
+http://i.git.ir/Pluralsight_Prioritizing_Tasks_and_Managing_Time_for_Greater_Productivity.jpg
+
+بارگذاری ماژول ها بر اساس سطح دسترسی کاربر در Prism
+http://i.git.ir/Pluralsight_Prism_Problems_And_Solutions_Loading_Modules_Based_on_User_Roles.jpg
+
+آشنایی با نکته های Lightroom CC
+http://i.git.ir/Kelbyone_Lightroom_CC_Killer_Tips.jpg
+
+کار با اسلایدشو و ماژول های وب در Lightroom CC
+http://i.git.ir/Kelbyone_Lightroom_CC_In_Depth_Slideshow_and_Web_Modules.jpg
+
+آموزش طراحی لوگوی سه بعدی در فتوشاپ
+http://i.git.ir/Kelbyone_Master_FX_3D_Logo_Design_in_Adobe_Photoshop.jpg
+
+آموزش کسب درآمد از وبلاگ وردپرس
+http://i.git.ir/Udemy_How_To_Earn_Money_Blogging_From_Your_WordPress_Blog.jpg
+
+تبدیل منطقه زمانی (Time Zone) در PHP
+http://i.git.ir/Lynda_Easy_PHP_Projects_Time_Zone_Conversion.jpg
+
+مبانی DNS – آموزش راه اندازی و مدیریت دامنه
+http://i.git.ir/Udemy_DNS_basics_-_Understand_setup_and_manage_your_own_domains.jpg
+
+ساخت Satyr در فتوشاپ با استفاده از استایل های لایه
+http://i.git.ir/Lynda_Photoshop_Create_a_Satyr_Using_Layer_Styles.jpg
+
+تکنیک های ترمیم در فتوشاپ: جایگزینی پس زمینه
+http://i.git.ir/Lynda_Photoshop_Restoration_Techniques_Replacing_a_Background.jpg
+
+آموزش SQL Server در دنیای واقعی از ابتدا
+http://i.git.ir/Udemy_Real_World_SQL_Server_From_The_Ground_Up.jpg
+
+آموزش تبلیغات Twitter برای کسب و کارها و کارآفرینان
+http://i.git.ir/Udemy_Twitter_Ads_NEW_2016_-_For_Business_Agencies_And_Entrepreneurs.jpg
+
+آموزش Revit 2017 برای MEP
+http://i.git.ir/Lynda_Revit_2017_Essential_Training_for_MEP_(Imperial).jpg
+
+نصب وردپرس با BitNami
+http://i.git.ir/Lynda_Installing_and_Running_WordPress_BitNami.jpg
+
+استراتژی ساخت بازی های Real-Time با Unity 5
+http://i.git.ir/Lynda_Unity_5_Build_a_Real-Time_Strategy_Game.jpg
+
+آموزش رتوش عکس در Photoshop CC در کمترین زمان
+http://i.git.ir/Udemy_Photoshop_CC_Retouching_in_no_time_with_Actions.jpg
+
+کسب درآمد با مهارت های وردپرسی
+http://i.git.ir/Udemy_WordPress_Profits_Simplified.jpg
+
+آموزش سئو یوتیوب: چگونه ویدئو خود را صفحه اول قرار دهیم؟
+http://i.git.ir/Udemy_Youtube_SEO__Learn_How_I_Rank_My_YouTube_Videos_on_1st_Page.jpg
+
+استراتژی های یوتیوب برای ایجاد یک کانال موفق
+http://i.git.ir/Udemy_YouTube_Strategy_Building_A_Successful_YouTube_Channel.jpg
+
+آموزش برنامه نویسی جاوااسکریپت همراه با ساخت 4 پروژه عملی
+http://i.git.ir/Udemy_JavaScript_Basics_Build_4_JavaScript_Basic_Projects.jpg
+
+آموزش نکات ضروری در Google Webmaster Tools
+http://i.git.ir/Udemy_Google_Webmaster_Tools__All_you_need_to_know.jpg
+
+آموزش کار با دستبند سلامتی Fitbit
+http://i.git.ir/Lynda_Up_and_Running_with_Fitbit.jpg
+
+آموزش طراحی UX با Flinto برای Mac
+http://i.git.ir/Lynda_UX_Design_Tools_Flinto_for_Mac.jpg
+
+آموزش Revit 2017 برای معماران
+http://i.git.ir/Lynda_Revit_2017_Essential_Training_for_Architecture_(Metric).jpg
+
+آموزش اساسی Excel سطح پیشرفته
+http://i.git.ir/Udemy_Excel_Essentials_Level_2_-_Intermediate_Advanced.jpg
+
+آموزش اساسی Excel سطح مقدماتی
+http://i.git.ir/Udemy_Excel_Essentials_Level_1_Basics_-_Master_Excel_Step-By-Step.jpg
+
+آموزش برنامه نویسی Swift برای تازه کاران
+http://i.git.ir/Udemy_Swift_Programming_for_Beginners.jpg
+
+ساخت موشن گرافیک Realtime با Unreal Engine 4
+http://i.git.ir/Lynda_Realtime_Motion_Graphics_with_Unreal_Engine_4.jpg
+
+آموزش اشتراک گذاری عکس با استفاده از Flickr
+http://i.git.ir/Lynda_Sharing_Photos_with_Flickr.jpg
+
+آموزش تدریس آنلاین زبان انگلیسی و چگونگی جذب دانشجو
+http://i.git.ir/Udemy_Teach_English_Online_what_to_teach_and_how_to_find_students.jpg
+
+آموزش تسلط به فتوشاپ برای تازه کاران
+http://i.git.ir/Udemy_Photoshop_Beginners_Mastery_Zero_to_Hero_in_Photoshop.jpg
+
+ترسیم رسانه های طبیعی در فتوشاپ
+http://i.git.ir/Lynda_Natural-Media_Painting_in_Photoshop.jpg
+
+آموزش بهینه سازی بازاریابی ایمیلی
+http://i.git.ir/Lynda_Optimizing_Marketing_Emails.jpg
+
+چگونه در یک ماه 18000 دنبال کننده توئیتر جذب کنیم؟
+http://i.git.ir/Udemy_Twitter_Marketing_How_I_Got_18000_Followers_in_One_Month.jpg
+
+آموزش وردپرس برای کسب و کار و کسب درآمد
+http://i.git.ir/Udemy_WordPress_For_Business_Build_5000_Looking_WordPress_Site.jpg
+
+آموزش Blending Mode در فتوشاپ
+http://i.git.ir/Tutsplus_Mastering_Blending_Modes_in_Adobe_Photoshop.jpg
+
+
+
+
+
+
